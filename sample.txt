@@ -1,0 +1,43 @@
+<div class="row petowner-detail">
+	<div class="top-bar" align="right">
+				<a class="btn btn-success spb" href="edit_user.php">Details</a>
+			</div><div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="margin-top: 50px;text-align: center;">
+		<img src="uploads/1490877825Tulips.jpg" height="100px" width="100px">
+	</div>
+	<div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
+	<div class="" align="left">
+	
+		<h3>
+			<b><u>MY PROFILE PAGE</u></b>
+		</h3>
+		<h3>
+			<span class="col-lg-6 col-md-6">Name: </span><span>gokul</span>
+		</h3>
+		<h3>
+			<span class="col-lg-6 col-md-6">Age: </span><span>25</span>
+		</h3>
+		<h3>
+			<span class="col-lg-6 col-md-6">Designation: </span><span>Manager</span>
+		</h3>
+		<h3>
+			<span class="col-lg-6 col-md-6">Email: </span><span>gokult@gmail.com</span>
+		</h3>
+		<h3>
+			<span class="col-lg-6 col-md-6">Address: </span><span>6d,Kamaraj street,
+Chennai-22.</span>
+		</h3>
+		<h3>
+			<span class="col-lg-6 col-md-6">Status: </span><span>Goodmorning</span>
+		</h3>
+		<h3>
+			<span class="col-lg-6 col-md-6">Background: </span><span></span>
+		</h3>
+		
+		<div class="clear"></div>
+		<h3>
+			<span class="col-lg-6 col-md-6">UserImage:</span><span></span>
+		</h3>
+	</div>
+		<div>
+			<div class="clear"></div>
+		</div></div></div>
